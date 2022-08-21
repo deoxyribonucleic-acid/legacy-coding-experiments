@@ -4,7 +4,9 @@
 
 **主要包括：**
 
-SHVC SHM 12.4 以及相关Python脚本
+H.265 SHVC SHM 12.4 以及相关Python脚本
+
+H.264 SVC 没有脚本 当时应该是命令行调用的
 
 JPEG JPEG2000 都是matlab脚本
 
