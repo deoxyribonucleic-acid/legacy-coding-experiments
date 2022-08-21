@@ -1,4 +1,5 @@
 **SHVC编码**
+
 用thread.py 跑 默认开了16进程
 
 输入是16个yuv子序列 需要把数据集转换到一个yuv大序列，然后用jpeg2yuv文件夹下面的yuv_cut_chunks.bat分割
